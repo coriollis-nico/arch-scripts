@@ -1,0 +1,11 @@
+git
+github-cli
+firefox
+firefox-i18n-es-mx
+vlc
+bitwarden
+xournalpp
+texlive
+texlive-lang
+biber
+spotify-launcher
