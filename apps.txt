@@ -1,3 +1,4 @@
+gcc-fortran
 git
 github-cli
 firefox
@@ -8,4 +9,5 @@ xournalpp
 texlive
 texlive-lang
 biber
+texlab
 spotify-launcher
