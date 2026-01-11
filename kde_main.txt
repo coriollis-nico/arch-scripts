@@ -59,7 +59,6 @@ skanpage
 sweeper
 kimageformats
 libappindicator-gtk3
-maliit-keyboard
 orca
 bluez
 bluez-utils
