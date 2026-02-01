@@ -1,3 +1,8 @@
+#!/bin/bash
+set -euo pipefail
+IFS=$'\n\t'
+
+
 cat kde_main.txt | sudo pacman -Syu --needed -
 
 sudo systemctl enable sddm.service
