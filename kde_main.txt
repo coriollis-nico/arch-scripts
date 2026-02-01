@@ -1,9 +1,6 @@
 plasma-meta
 kde-accessibility-meta
-kmplot
-ktouch
 marble
-step
 colord-kde
 gwenview
 kamera
@@ -11,7 +8,6 @@ kcolorchooser
 kdegraphics-thumbnailers
 koko
 kolourpaint
-kruler
 okular
 svgpart
 dragon
@@ -29,7 +25,6 @@ kio-zeroconf
 krdc
 krfb
 ghostwriter
-kde-pim-meta
 dolphin-plugins
 kompare
 kde-system-meta
