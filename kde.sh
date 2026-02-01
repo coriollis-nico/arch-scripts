@@ -12,5 +12,3 @@ sudo systemctl enable thermald.service
 
 
 cat apps.txt | sudo pacman -S --needed -
-
-cat screenshare.txt | sudo pacman -S --needed -
