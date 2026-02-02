@@ -3,7 +3,7 @@ set -euo pipefail
 IFS=$'\n\t'
 
 
-cat kde_main.txt | sudo pacman -Syu --needed -
+cat plasma_basic.txt | sudo pacman -Syu --needed -
 
 sudo systemctl enable sddm.service
 
