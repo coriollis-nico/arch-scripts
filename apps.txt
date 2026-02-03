@@ -8,6 +8,6 @@ bitwarden
 xournalpp
 texlive
 texlive-lang
+texlive-doc
 biber
 texlab
-spotify-launcher
